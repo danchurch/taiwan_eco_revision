@@ -1,0 +1,34 @@
+pdftotext -nopgbrk -f 5 -l 30 -layout FUNECO-S-17-00243.pdf funeco.txt
+
+## get rid of left margin (5 characters)
+
+cut -c 6- funeco.txt | sed '/^$/d' > funeco_NoWS.txt
+
+## then clean up with text editor? ugh. 
+
+## but not sure what else to do. 
+
+## vim time...
+
+## ok, I think we mostly recovered the text. 
+
+## saved as funeco_body.txt
+
+## now let's see if we can:
+
+## 1) load this into openoffice
+## 1.5) spot check to make sure text looks okay
+## 2) recreate the bibliography
+## 3) update statistics
+## 4) slash and burn 
+## 5) rewrite to our tastes
+## 6) respond to remaining requests from reviewers
+
+
+
+
+
+
+
+
+
