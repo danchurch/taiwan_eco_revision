@@ -26,7 +26,7 @@ cut -c 6- funeco.txt | sed '/^$/d' > funeco_NoWS.txt
 
 
 
-
+git checkout 6676aecd90933852e232c08cb8fd02bc46732934 funeco_revised.odt
 
 
 
