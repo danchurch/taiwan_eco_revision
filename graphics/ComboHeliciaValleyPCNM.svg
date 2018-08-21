@@ -8,13 +8,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="833.63916pt"
-   height="443.06619pt"
-   viewBox="0 0 833.63916 443.06619"
+   width="862.22369pt"
+   height="486.35931pt"
+   viewBox="0 0 862.22369 486.35931"
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="ComboHeliciaValleyPCNM.svg">
+   sodipodi:docname="ComboHeliciaValleyPCNM.svg"
+   inkscape:export-filename="/home/daniel/Documents/taiwan/eco_paper/taiwan_eco_revision/graphics/pngs/ComboHeliciaValleyPCNM.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500">
   <metadata
      id="metadata358">
     <rdf:RDF>
@@ -42,8 +45,8 @@
      showgrid="false"
      showborder="false"
      inkscape:zoom="0.74920635"
-     inkscape:cx="579.92901"
-     inkscape:cy="240.02006"
+     inkscape:cx="539.01745"
+     inkscape:cy="269.03702"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -665,9 +668,16 @@
          xlink:href="#image744" />
     </pattern>
   </defs>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="rect4440"
+     width="841.42371"
+     height="465.55933"
+     x="10.4"
+     y="10.4" />
   <g
      id="g5292"
-     transform="translate(-22.772461,-23.378148)">
+     transform="translate(-10.236868,-3.2985787)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
        d="m 74.398438,430.55859 384.000002,0"
@@ -1185,7 +1195,7 @@
   </g>
   <g
      id="g5386"
-     transform="translate(-153.8386,-27.722986)">
+     transform="translate(-141.30301,-7.6434167)">
     <path
        id="path4590"
        d="m 619.34101,434.90343 344,0"
@@ -1499,7 +1509,7 @@
   </g>
   <g
      id="g5498"
-     transform="translate(-41.847075,17.660065)">
+     transform="translate(-29.311482,37.739634)">
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.81084937;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
        d="m 410.08703,49.008254 164.90802,0 0,-30.870488 -164.90802,0 z m 0,0"
@@ -1678,36 +1688,36 @@
   <text
      xml:space="preserve"
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.19999981px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.953125px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     x="612.40411"
-     y="24.58"
+     x="624.9397"
+     y="44.659569"
      id="text5012"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5014"
-       x="612.40411"
-       y="24.58"
+       x="624.9397"
+       y="44.659569"
        style="font-size:20px">Wood</tspan></text>
   <text
      xml:space="preserve"
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.953125px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     x="178.12073"
-     y="-6.367054"
+     x="190.65633"
+     y="13.712515"
      id="text5528"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5530"
-       x="178.12073"
-       y="-6.367054" /></text>
+       x="190.65633"
+       y="13.712515" /></text>
   <text
      xml:space="preserve"
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.953125px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     x="211.22241"
-     y="24.58"
+     x="223.75801"
+     y="44.659569"
      id="text5532"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5534"
-       x="211.22241"
-       y="24.58"
+       x="223.75801"
+       y="44.659569"
        style="font-size:20px">Leaves</tspan></text>
 </svg>
