@@ -1,0 +1,14 @@
+import PyPDF3
+
+RooP="/home/daniel/Documents/Papers/Xylaria/RooDraft_TaiwanFA_manuscript.pdf"
+
+with open("/home/daniel/Documents/Papers/Xylaria/RooDraft_TaiwanFA_manuscript.pdf", 'rb') as RooF:
+    pdfReader = PyPDF3.PdfFileReader(RooF)
+    pdfReader.numPages
+
+for i in range(6):
+    print(i)
+
+    page6=pdfReader.getPage(6)
+
+
